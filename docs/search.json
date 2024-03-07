@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jessica’s Portfolio",
-    "section": "",
-    "text": "Hi, I’m Jessica!\nA Designer using my background in psychology & environment to make sense of an overwhelming world."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessica’s Portfolio",
+    "section": "",
+    "text": "Hi, I’m Jessica!\nA Designer using my background in psychology & environment to make sense of an overwhelming world."
   }
 ]
